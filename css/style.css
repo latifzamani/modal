@@ -1,0 +1,34 @@
+#body{
+    background-color:darkcyan;
+}
+#h1{
+    text-align: center;
+}
+#line{
+    width: 100%;
+    margin: 30px 0px;
+    height: 5px;
+}
+#secret_number_div{
+    border: 3px solid black;
+    background-color: cadetblue;
+    width: 20vh;
+    height: 20vh;
+    margin-left:40%;
+}
+#secret_number{
+    font-size: 5rem;
+    text-align: center;
+}
+#number_input{
+    border: 3px solid black;
+    width: 15vh;
+    height: 5vh;
+    margin: 30px 0px;
+}
+#h4{
+    color: white;
+    display: inline;
+    font-size: 1.2rem;
+    font-style:italic;
+}
